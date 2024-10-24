@@ -1,32 +1,32 @@
-# CH6 - Canlı Ders 4a
+# CH6 - CanlÄ± Ders 4a
 
-Bu derste OOP (Object-Oriented Programming) konusuna giriş yapıyoruz. Sınıflar bir binanın kağıt üzerindeki blue-print'i (tüm detaylarıyla taslağı) ve nesneler de o şablona/plana uygun inşa edilmiş fiziksel varlığı olan binalar olarak düşünülebilir. 
+Bu derste OOP (Object-Oriented Programming) konusuna giriÅŸ yapÄ±yoruz. SÄ±nÄ±flar bir binanÄ±n kaÄŸÄ±t Ã¼zerindeki blue-print'i (tÃ¼m detaylarÄ±yla taslaÄŸÄ±) ve nesneler de o ÅŸablona/plana uygun inÅŸa edilmiÅŸ fiziksel varlÄ±ÄŸÄ± olan binalar olarak dÃ¼ÅŸÃ¼nÃ¼lebilir. 
 
-Aşağıda bu ders içerisinde değinilmesi planlanan bazı başlıkları ve küçük notları bulabilirsiniz.
+AÅŸaÄŸÄ±da bu ders iÃ§erisinde deÄŸinilmesi planlanan bazÄ± baÅŸlÄ±klarÄ± ve kÃ¼Ã§Ã¼k notlarÄ± bulabilirsiniz.
 
-## 1. Sınıfsız vs Sınıflı
-* Örnek 1: Kişilerin ad ve yaşlarını saklamak ve göstermek istiyoruz. Bunu önce sınıfsız sonra sınıf kullanarak yapalım.
-* Örnek 2: Ad ve soyadları 2 ayrı dizide taşı ve bir diziyi sıralayınca bozulan veri bütünlüğünü gözlemle.
+## 1. SÄ±nÄ±fsÄ±z vs SÄ±nÄ±flÄ±
+* Ã–rnek 1: KiÅŸilerin ad ve yaÅŸlarÄ±nÄ± saklamak ve gÃ¶stermek istiyoruz. Bunu Ã¶nce sÄ±nÄ±fsÄ±z sonra sÄ±nÄ±f kullanarak yapalÄ±m.
+* Ã–rnek 2: Ad ve soyadlarÄ± 2 ayrÄ± dizide taÅŸÄ± ve bir diziyi sÄ±ralayÄ±nca bozulan veri bÃ¼tÃ¼nlÃ¼ÄŸÃ¼nÃ¼ gÃ¶zlemle.
 
-## 2. Sınıf Üyeleri (Class Members)
-Dikdortgen sınıfı (genislik, yukseklik, alan() ve cevre())
+## 2. SÄ±nÄ±f Ãœyeleri (Class Members)
+Dikdortgen sÄ±nÄ±fÄ± (genislik, yukseklik, alan() ve cevre())
 * Alan (Field)
-* Property (Özellik)
+* Property (Ã–zellik)
 * Method (Metot)
 
-## 3. Özellikler (Properties)
-* ```get``` ve ```set``` erişicilerinin (accessor) işlevleri ve tanımlanması
+## 3. Ã–zellikler (Properties)
+* ```get``` ve ```set``` eriÅŸicilerinin (accessor) iÅŸlevleri ve tanÄ±mlanmasÄ±
 * full property ve auto property
-* Ogrenci sınıfı örneği ve yaş property'sinin hata fırlatması (encapsulation ilkesine değinilecek)
+* Ogrenci sÄ±nÄ±fÄ± Ã¶rneÄŸi ve yaÅŸ property'sinin hata fÄ±rlatmasÄ± (encapsulation ilkesine deÄŸinilecek)
 
 ## 4. Kurucu (Constructor) Metotlar
 * Parametresiz default constructor
 * Constructor overloading
-* Parametresiz constructor içermeyen sınıflar
-* this keyword'ü ve kullanım örneği
+* Parametresiz constructor iÃ§ermeyen sÄ±nÄ±flar
+* this keyword'Ã¼ ve kullanÄ±m Ã¶rneÄŸi
 
 ## 5. Reference Type vs Value Type
-* Veri türlerinin ikiye ayrılması ve farkları
-* Ne zaman hangi bellek türünde (stack vs heap) saklanacağı
+* Veri tÃ¼rlerinin ikiye ayrÄ±lmasÄ± ve farklarÄ±
+* Ne zaman hangi bellek tÃ¼rÃ¼nde (stack vs heap) saklanacaÄŸÄ±
 
 
